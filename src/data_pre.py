@@ -48,3 +48,4 @@ df_scaled.to_csv('data/preprocessed_network_traffic_data.csv')
 
 # Print the head of the final DataFrame to verify
 print(df_scaled.head())
+print("iam balaji")
